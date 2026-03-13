@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /lido-staking/
-Sitemap: Calculate-Staking.github.io/sitemap.xml
